@@ -1,0 +1,23 @@
+{
+  "name": "keyboard-keyboard",
+  "version": "1.0.0",
+  "description": "Keyboard? Keyboard!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rileyjshaw <i@rileyjshaw.com> (http://rileyjshaw.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rileyjshaw/keyboard-keyboard/"
+  },
+  "keywords": [
+    "keyboard",
+    "music",
+    "typing"
+  ],
+  "dependencies": {
+    "midi": "^0.9.4"
+  }
+}
