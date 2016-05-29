@@ -1,6 +1,6 @@
-# keyboard-keyboard
+![Musical keyboard with the alphabet A to Y overlaid](./keyboard.jpg)
 
-Use a MIDI keyboard as your laptop keyboard.
+_Use a MIDI keyboard as your laptop keyboard._
 
 Built on the cab ride over to [Stupid Shit No One Needs & Terrible Ideas
 Hackathon Toronto](http://stupidhacktoronto.com/).
