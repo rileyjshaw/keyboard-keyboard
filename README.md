@@ -20,7 +20,9 @@ Hit keys!
 
 ## Controls
 **1 key:** Letter A-Y (sorry, Z!). Hard press = UPPERCASE, soft press = lowercase.
+
 **2 keys simultaneously:** Spacebar
+
 **3+ keys simultaneously:** On the roadmap...
 
 [Public domain.](./LICENSE)
